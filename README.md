@@ -34,7 +34,7 @@ Section "group2" deleted.
 ```
 
 ## Установка
-`npm i -g project-gendiff`
+`npm i -g gendiff`
 
 ## Запуск
 ```
